@@ -1,0 +1,17 @@
+#my-twit-profile {
+    position: absolute;
+    left: 500px;
+    top: 80px;
+}
+
+#my-twit-profile .twtr-doc, 
+#my-twit-profile .twtr-hd a,
+#my-twit-profile h3,
+#my-twit-profile h4 {
+    background-color: #333;
+    color: white;
+}
+
+#my-twit-profile .twtr-timeline {
+    background-color: black;
+}

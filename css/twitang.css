@@ -1,0 +1,18 @@
+.twitter-profile {
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 100%;
+}
+
+.twitter-profile-header {
+    background-color: #333;
+    padding: 10px;
+}
+
+.twitter-profile-image {
+    width: 31px;
+    height: 31px;
+    border: 0 !important;
+    display: block;
+}
